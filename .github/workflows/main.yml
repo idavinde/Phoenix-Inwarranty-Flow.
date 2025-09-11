@@ -31,7 +31,7 @@ jobs:
              -e QA.postman_environment.json \
              -d testData.csv \
              -r cli,htmlextra \
-             --reporter-html-export ./newman/index.html
+             --reporter-htmlextra-export ./newman/index.html
 
 
       - name: Upload Artifact
