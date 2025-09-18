@@ -30,7 +30,7 @@ You can connect with me over : (https://www.linkedin.com/in/davinder-raju/)
 9. AWS-EC2 instance for Self hosted github runner
 
 ## Github Pages ##
-You can directly view the latest test report of the Postman Test at the Github Page Link: https://idavinde.github.io/Phoenix-Inwarranty-Flow/
+You can directly view the latest test report of the Postman Test at the Github Page Link: https://idavinde.github.io/Phoenix-Inwarranty-Flow./
 
 ## HTML Report ##
 
